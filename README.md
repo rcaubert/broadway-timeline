@@ -1,3 +1,3 @@
 # broadway-timeline
 
-Timeline mobile et desktop réalisée pour découvrir javascript.
+ I created this responsive and interactive timeline in order to discover JavaScript.
